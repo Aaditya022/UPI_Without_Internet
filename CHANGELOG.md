@@ -4,3 +4,4 @@
 - 2026-03-05T11:00:00+0530: feat: add GCM auth tag verification for tamper detection
 - 2026-03-06T10:30:00+0530: feat: add scheduled cache eviction and TTL config
 - 2026-03-07T11:00:00+0530: feat: implement gossip protocol with TTL-based flooding
+- 2026-03-07T14:00:00+0530: feat: add bridge upload collection and GossipResult records
