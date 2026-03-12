@@ -10,3 +10,4 @@
 - 2026-03-11T10:30:00+0530: feat: add IngestResult record with SETTLED/DUPLICATE/INVALID
 - 2026-03-11T14:00:00+0530: feat: implement idempotency gate as first pipeline stage
 - 2026-03-12T09:00:00+0530: feat: add decryption and tamper detection to ingestion
+- 2026-03-12T10:30:00+0530: feat: add freshness check with configurable max-age window
