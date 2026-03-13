@@ -13,3 +13,4 @@
 - 2026-03-12T10:30:00+0530: feat: add freshness check with configurable max-age window
 - 2026-03-12T14:00:00+0530: feat: wire settlement handoff and structured error logging
 - 2026-03-13T10:00:00+0530: feat: add accounts and transactions GET endpoints
+- 2026-03-13T11:00:00+0530: feat: add mesh state endpoint with device packet details
