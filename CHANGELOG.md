@@ -17,3 +17,4 @@
 - 2026-03-13T14:00:00+0530: feat: add demo send POST endpoint with DemoSendRequest
 - 2026-03-14T09:00:00+0530: feat: add gossip and flush endpoints
 - 2026-03-14T10:00:00+0530: feat: add mesh reset and bridge ingest endpoints
+- 2026-03-16T10:30:00+0530: style: add base css with typography and color palette
