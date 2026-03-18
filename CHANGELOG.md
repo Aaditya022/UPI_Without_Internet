@@ -22,3 +22,4 @@
 - 2026-03-17T09:00:00+0530: feat: add compose payment controls with selects and inputs
 - 2026-03-17T10:00:00+0530: feat: add mesh devices panel with bridge indicators
 - 2026-03-17T14:00:00+0530: feat: add accounts table and transaction ledger with status colors
+- 2026-03-18T09:00:00+0530: feat: add activity log panel
