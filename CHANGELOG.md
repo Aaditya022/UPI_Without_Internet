@@ -29,3 +29,4 @@
 - 2026-03-19T14:00:00+0530: test: add encryptDecryptRoundTrip crypto sanity test
 - 2026-03-20T09:00:00+0530: test: add tamperedCiphertextIsRejected test
 - 2026-03-20T10:00:00+0530: test: add concurrent 3-bridge race test via CountDownLatch
+- 2026-03-20T11:00:00+0530: test: add singlePacketDeliveredByThreeBridgesSettlesExactlyOnce
