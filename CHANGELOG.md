@@ -33,3 +33,4 @@
 - 2026-03-20T14:00:00+0530: test: add balance verification and idempotency assertions
 - 2026-03-21T14:00:00+0530: docs: add architecture and data flow mermaid diagrams
 - 2026-03-22T09:00:00+0530: docs: add encryption scheme and three hard problems documentation
+- 2026-03-22T11:00:00+0530: docs: add API reference with request/response examples
