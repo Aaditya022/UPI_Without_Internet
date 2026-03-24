@@ -145,3 +145,4 @@
 - 2026-03-24T10:00:00+0530: style: fix line endings in property files
 - 2026-03-24T11:00:00+0530: test: add unit test for PacketValidation
 - 2026-03-24T14:00:00+0530: chore: add maven-enforcer-plugin config
+- 2026-03-24T15:00:00+0530: docs: add class diagram to readme
