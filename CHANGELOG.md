@@ -141,3 +141,4 @@
 - 2026-06-05T14:30:00+0530: chore: configure logback rolling policy
 - 2026-06-05T15:00:00+0530: chore: add docker-compose for local dev
 - 2026-06-05T15:30:00+0530: chore: add .env.example for frontend
+- 2026-03-24T09:00:00+0530: refactor: extract constant for max retry count
