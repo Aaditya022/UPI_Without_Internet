@@ -148,3 +148,4 @@
 - 2026-03-24T15:00:00+0530: docs: add class diagram to readme
 - 2026-04-10T09:00:00+0530: fix: correct Navbar active section highlight
 - 2026-04-10T10:00:00+0530: style: adjust Hero CTA button padding
+- 2026-04-10T11:00:00+0530: refactor: extract scroll observer hook
