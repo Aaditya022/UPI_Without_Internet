@@ -150,3 +150,4 @@
 - 2026-04-10T10:00:00+0530: style: adjust Hero CTA button padding
 - 2026-04-10T11:00:00+0530: refactor: extract scroll observer hook
 - 2026-04-10T14:00:00+0530: style: unify footer link hover color
+- 2026-04-10T15:00:00+0530: chore: add image optimization config
