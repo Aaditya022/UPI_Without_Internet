@@ -151,3 +151,4 @@
 - 2026-04-10T11:00:00+0530: refactor: extract scroll observer hook
 - 2026-04-10T14:00:00+0530: style: unify footer link hover color
 - 2026-04-10T15:00:00+0530: chore: add image optimization config
+- 2026-04-15T09:00:00+0530: refactor: inline single-use CSS in Features
