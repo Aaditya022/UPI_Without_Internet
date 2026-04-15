@@ -154,3 +154,4 @@
 - 2026-04-15T09:00:00+0530: refactor: inline single-use CSS in Features
 - 2026-04-15T10:00:00+0530: style: adjust Stats counter animation delay
 - 2026-04-15T11:00:00+0530: fix: correct HowItWorks step ordering
+- 2026-04-15T14:00:00+0530: style: reduce FAQ icon rotation speed
