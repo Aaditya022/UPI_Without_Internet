@@ -160,3 +160,4 @@
 - 2026-04-30T10:00:00+0530: style: tweak Bento grid gap spacing
 - 2026-04-30T11:00:00+0530: fix: correct Showcase image aspect ratio
 - 2026-04-30T14:00:00+0530: style: unify Pricing card border radius
+- 2026-04-30T15:00:00+0530: chore: add fallback font stack
