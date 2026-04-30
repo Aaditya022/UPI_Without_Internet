@@ -156,3 +156,4 @@
 - 2026-04-15T11:00:00+0530: fix: correct HowItWorks step ordering
 - 2026-04-15T14:00:00+0530: style: reduce FAQ icon rotation speed
 - 2026-04-15T15:00:00+0530: chore: add hover state to FinalCTA button
+- 2026-04-30T09:00:00+0530: refactor: extract shared animation utils
