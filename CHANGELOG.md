@@ -58,3 +58,4 @@
 - 2026-05-05T11:00:00+0530: style: fix indentation in VirtualDevice.java
 - 2026-05-05T11:30:00+0530: chore: bump logging level for mesh events
 - 2026-05-05T14:00:00+0530: refactor: split gossipTtl into separate method
+- 2026-05-05T14:30:00+0530: style: align field declarations consistently
