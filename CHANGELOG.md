@@ -56,3 +56,4 @@
 - 2026-05-05T10:00:00+0530: perf: avoid concurrent iteration in bridge upload
 - 2026-05-05T10:30:00+0530: refactor: introduce DeviceStatus enum
 - 2026-05-05T11:00:00+0530: style: fix indentation in VirtualDevice.java
+- 2026-05-05T11:30:00+0530: chore: bump logging level for mesh events
