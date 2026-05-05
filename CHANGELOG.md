@@ -54,3 +54,4 @@
 - 2026-05-05T09:00:00+0530: refactor: extract device validation logic in MeshSimulatorService
 - 2026-05-05T09:30:00+0530: style: inline redundant variable in gossip flood
 - 2026-05-05T10:00:00+0530: perf: avoid concurrent iteration in bridge upload
+- 2026-05-05T10:30:00+0530: refactor: introduce DeviceStatus enum
