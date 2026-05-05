@@ -60,3 +60,4 @@
 - 2026-05-05T14:00:00+0530: refactor: split gossipTtl into separate method
 - 2026-05-05T14:30:00+0530: style: align field declarations consistently
 - 2026-05-05T15:00:00+0530: test: add mesh topology edge case tests
+- 2026-05-05T15:30:00+0530: docs: add method comments for packet routing
