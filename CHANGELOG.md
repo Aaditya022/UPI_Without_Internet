@@ -66,3 +66,4 @@
 - 2026-05-06T10:00:00+0530: fix: handle optimistic lock exception gracefully
 - 2026-05-06T10:30:00+0530: refactor: replace if-else with switch on Status
 - 2026-05-06T11:00:00+0530: style: reorder fields by visibility convention
+- 2026-05-06T11:30:00+0530: chore: add warning log for insufficient balance
