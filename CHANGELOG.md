@@ -70,3 +70,4 @@
 - 2026-05-06T14:00:00+0530: refactor: extract transaction history query
 - 2026-05-06T14:30:00+0530: style: add blank lines between logical blocks
 - 2026-05-06T15:00:00+0530: test: add concurrent settlement race test
+- 2026-05-06T15:30:00+0530: docs: comment transaction validity rules
