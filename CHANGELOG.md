@@ -65,3 +65,4 @@
 - 2026-05-06T09:30:00+0530: style: rename debitAmount to applyDebit
 - 2026-05-06T10:00:00+0530: fix: handle optimistic lock exception gracefully
 - 2026-05-06T10:30:00+0530: refactor: replace if-else with switch on Status
+- 2026-05-06T11:00:00+0530: style: reorder fields by visibility convention
