@@ -62,3 +62,4 @@
 - 2026-05-05T15:00:00+0530: test: add mesh topology edge case tests
 - 2026-05-05T15:30:00+0530: docs: add method comments for packet routing
 - 2026-05-06T09:00:00+0530: refactor: extract balance deduction to helper
+- 2026-05-06T09:30:00+0530: style: rename debitAmount to applyDebit
