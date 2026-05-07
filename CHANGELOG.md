@@ -73,3 +73,4 @@
 - 2026-05-06T15:30:00+0530: docs: comment transaction validity rules
 - 2026-05-07T09:00:00+0530: refactor: extract GET endpoint path constants
 - 2026-05-07T09:30:00+0530: style: consolidate @RequestMapping annotations
+- 2026-05-07T10:00:00+0530: feat: add content-type validation to ingest endpoint
