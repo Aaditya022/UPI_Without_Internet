@@ -79,3 +79,4 @@
 - 2026-05-07T11:30:00+0530: chore: add request size limit constants
 - 2026-05-07T14:00:00+0530: refactor: unify error response structure
 - 2026-05-07T14:30:00+0530: style: add ResponseEntity.ok shorthand usage
+- 2026-05-07T15:00:00+0530: test: add bridge ingest integration test
