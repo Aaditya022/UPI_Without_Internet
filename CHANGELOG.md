@@ -76,3 +76,4 @@
 - 2026-05-07T10:00:00+0530: feat: add content-type validation to ingest endpoint
 - 2026-05-07T10:30:00+0530: refactor: move DemoSendRequest to inner record
 - 2026-05-07T11:00:00+0530: style: fix method ordering in ApiController
+- 2026-05-07T11:30:00+0530: chore: add request size limit constants
