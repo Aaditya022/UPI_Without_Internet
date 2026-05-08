@@ -84,3 +84,4 @@
 - 2026-05-08T09:00:00+0530: style: tweak dashboard panel shadow depth
 - 2026-05-08T09:30:00+0530: fix: correct mobile viewport overflow
 - 2026-05-08T10:00:00+0530: refactor: extract table row template to JS
+- 2026-05-08T10:30:00+0530: style: adjust accent color opacity variants
