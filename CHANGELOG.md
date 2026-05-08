@@ -86,3 +86,4 @@
 - 2026-05-08T10:00:00+0530: refactor: extract table row template to JS
 - 2026-05-08T10:30:00+0530: style: adjust accent color opacity variants
 - 2026-05-08T11:00:00+0530: feat: add hover transition to device cards
+- 2026-05-08T11:30:00+0530: style: unify font-size across dashboard panels
