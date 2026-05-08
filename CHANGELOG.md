@@ -81,3 +81,4 @@
 - 2026-05-07T14:30:00+0530: style: add ResponseEntity.ok shorthand usage
 - 2026-05-07T15:00:00+0530: test: add bridge ingest integration test
 - 2026-05-07T15:30:00+0530: docs: annotate API response status codes
+- 2026-05-08T09:00:00+0530: style: tweak dashboard panel shadow depth
