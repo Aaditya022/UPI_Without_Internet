@@ -88,3 +88,4 @@
 - 2026-05-08T11:00:00+0530: feat: add hover transition to device cards
 - 2026-05-08T11:30:00+0530: style: unify font-size across dashboard panels
 - 2026-05-08T14:00:00+0530: refactor: inline single-use CSS classes
+- 2026-05-08T14:30:00+0530: fix: align status indicator legend layout
