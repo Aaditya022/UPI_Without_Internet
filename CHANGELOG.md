@@ -163,3 +163,4 @@
 - 2026-04-30T15:00:00+0530: chore: add fallback font stack
 - 2026-05-12T09:00:00+0530: refactor: extract dashboard refresh interval constant
 - 2026-05-12T10:00:00+0530: style: adjust traffic light button spacing
+- 2026-05-12T11:00:00+0530: fix: correct iframe height on mobile
