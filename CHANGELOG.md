@@ -37,3 +37,4 @@
 - 2026-03-23T09:00:00+0530: docs: add production roadmap table and known limitations
 - 2026-05-15T14:00:00+0530: style: redesign dashboard with macOS frosted-glass aesthetics
 - 2026-05-15T15:00:00+0530: feat: add macOS traffic light buttons
+- 2026-05-16T10:00:00+0530: style: add macos-style title bar to hero iframe wrapper
