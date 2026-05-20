@@ -167,3 +167,4 @@
 - 2026-05-12T14:00:00+0530: style: add transition to frosted-glass panels
 - 2026-05-12T15:00:00+0530: chore: remove unused dashboard css
 - 2026-05-20T09:00:00+0530: refactor: extract device ping interval config
+- 2026-05-20T10:00:00+0530: style: align bridge status indicator colors
