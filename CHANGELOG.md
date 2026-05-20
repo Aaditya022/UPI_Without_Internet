@@ -169,3 +169,4 @@
 - 2026-05-20T09:00:00+0530: refactor: extract device ping interval config
 - 2026-05-20T10:00:00+0530: style: align bridge status indicator colors
 - 2026-05-20T11:00:00+0530: fix: correct gossip TTL decrement logic
+- 2026-05-20T14:00:00+0530: style: add tooltip to mesh device cards
