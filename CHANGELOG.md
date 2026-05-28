@@ -174,3 +174,4 @@
 - 2026-05-28T09:00:00+0530: refactor: extract transaction status formatter
 - 2026-05-28T10:00:00+0530: style: unify date format across dashboard
 - 2026-05-28T11:00:00+0530: fix: correct timestamp timezone display
+- 2026-05-28T14:00:00+0530: style: add zebra striping to transaction table
