@@ -172,3 +172,4 @@
 - 2026-05-20T14:00:00+0530: style: add tooltip to mesh device cards
 - 2026-05-20T15:00:00+0530: chore: add logging for device discovery
 - 2026-05-28T09:00:00+0530: refactor: extract transaction status formatter
+- 2026-05-28T10:00:00+0530: style: unify date format across dashboard
