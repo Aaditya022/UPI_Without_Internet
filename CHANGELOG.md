@@ -98,3 +98,4 @@
 - 2026-06-01T11:00:00+0530: feat: add loading skeleton to DemoDashboard
 - 2026-06-01T11:30:00+0530: style: unify section padding spacing
 - 2026-06-01T14:00:00+0530: fix: correct typewriter cursor blink timing
+- 2026-06-01T14:30:00+0530: refactor: move stats data to constants file
