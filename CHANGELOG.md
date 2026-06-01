@@ -92,3 +92,4 @@
 - 2026-05-08T15:00:00+0530: style: add subtle border to active panel
 - 2026-05-08T15:30:00+0530: chore: remove unused js console.log calls
 - 2026-06-01T09:00:00+0530: style: adjust Hero gradient stops
+- 2026-06-01T09:30:00+0530: fix: correct FAQ accordion z-index stacking
