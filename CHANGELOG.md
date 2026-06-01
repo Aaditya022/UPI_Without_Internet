@@ -93,3 +93,4 @@
 - 2026-05-08T15:30:00+0530: chore: remove unused js console.log calls
 - 2026-06-01T09:00:00+0530: style: adjust Hero gradient stops
 - 2026-06-01T09:30:00+0530: fix: correct FAQ accordion z-index stacking
+- 2026-06-01T10:00:00+0530: refactor: extract feature card into subcomponent
