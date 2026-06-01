@@ -94,3 +94,4 @@
 - 2026-06-01T09:00:00+0530: style: adjust Hero gradient stops
 - 2026-06-01T09:30:00+0530: fix: correct FAQ accordion z-index stacking
 - 2026-06-01T10:00:00+0530: refactor: extract feature card into subcomponent
+- 2026-06-01T10:30:00+0530: style: reduce Navbar backdrop blur radius
