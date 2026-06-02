@@ -103,3 +103,4 @@
 - 2026-06-01T15:30:00+0530: chore: add aria-labels to interactive elements
 - 2026-06-02T09:00:00+0530: refactor: extract API base URL to env var
 - 2026-06-02T09:30:00+0530: style: type all API response interfaces
+- 2026-06-02T10:00:00+0530: fix: add error boundary to fetch calls
