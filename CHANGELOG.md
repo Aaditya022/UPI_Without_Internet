@@ -104,3 +104,4 @@
 - 2026-06-02T09:00:00+0530: refactor: extract API base URL to env var
 - 2026-06-02T09:30:00+0530: style: type all API response interfaces
 - 2026-06-02T10:00:00+0530: fix: add error boundary to fetch calls
+- 2026-06-02T10:30:00+0530: refactor: unify error handling in api.ts
