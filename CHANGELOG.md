@@ -101,3 +101,4 @@
 - 2026-06-01T14:30:00+0530: refactor: move stats data to constants file
 - 2026-06-01T15:00:00+0530: style: tweak PixelDivider gradient direction
 - 2026-06-01T15:30:00+0530: chore: add aria-labels to interactive elements
+- 2026-06-02T09:00:00+0530: refactor: extract API base URL to env var
