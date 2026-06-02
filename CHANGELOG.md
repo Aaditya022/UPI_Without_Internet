@@ -106,3 +106,4 @@
 - 2026-06-02T10:00:00+0530: fix: add error boundary to fetch calls
 - 2026-06-02T10:30:00+0530: refactor: unify error handling in api.ts
 - 2026-06-02T11:00:00+0530: style: rename sendPayment to initiatePayment
+- 2026-06-02T11:30:00+0530: chore: add request timeout configuration
