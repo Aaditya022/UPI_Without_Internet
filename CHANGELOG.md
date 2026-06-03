@@ -115,3 +115,4 @@
 - 2026-06-03T09:30:00+0530: fix: correct Comparison table responsive breakpoint
 - 2026-06-03T10:00:00+0530: refactor: extract Pricing tier type definition
 - 2026-06-03T10:30:00+0530: style: unify Testimonials avatar sizing
+- 2026-06-03T11:00:00+0530: feat: add Logos auto-scroll animation
