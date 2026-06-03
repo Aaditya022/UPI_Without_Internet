@@ -113,3 +113,4 @@
 - 2026-06-02T15:30:00+0530: docs: add inline docs for API helper functions
 - 2026-06-03T09:00:00+0530: style: adjust Bento card hover scale
 - 2026-06-03T09:30:00+0530: fix: correct Comparison table responsive breakpoint
+- 2026-06-03T10:00:00+0530: refactor: extract Pricing tier type definition
