@@ -111,3 +111,4 @@
 - 2026-06-02T14:30:00+0530: style: format with consistent semicolons
 - 2026-06-02T15:00:00+0530: test: add mock API response types
 - 2026-06-02T15:30:00+0530: docs: add inline docs for API helper functions
+- 2026-06-03T09:00:00+0530: style: adjust Bento card hover scale
