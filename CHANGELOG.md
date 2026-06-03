@@ -120,3 +120,4 @@
 - 2026-06-03T14:00:00+0530: fix: correct CollabCursors canvas resize
 - 2026-06-03T14:30:00+0530: refactor: extract section config objects
 - 2026-06-03T15:00:00+0530: style: add subtle entry animation to sections
+- 2026-06-03T15:30:00+0530: chore: remove unused component props
