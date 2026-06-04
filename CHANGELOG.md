@@ -126,3 +126,4 @@
 - 2026-06-04T10:00:00+0530: docs: add troubleshooting FAQ to readme
 - 2026-06-04T10:30:00+0530: docs: fix mermaid diagram rendering notes
 - 2026-06-04T11:00:00+0530: docs: add deployment environment variables
+- 2026-06-04T11:30:00+0530: docs: expand encryption scheme explanation
