@@ -123,3 +123,4 @@
 - 2026-06-03T15:30:00+0530: chore: remove unused component props
 - 2026-06-04T09:00:00+0530: docs: add quickstart example curl commands
 - 2026-06-04T09:30:00+0530: docs: update architecture diagram labels
+- 2026-06-04T10:00:00+0530: docs: add troubleshooting FAQ to readme
