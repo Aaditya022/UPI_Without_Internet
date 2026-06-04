@@ -129,3 +129,4 @@
 - 2026-06-04T11:30:00+0530: docs: expand encryption scheme explanation
 - 2026-06-04T14:00:00+0530: docs: add sequence diagrams for key flows
 - 2026-06-04T14:30:00+0530: docs: include benchmark results section
+- 2026-06-04T15:00:00+0530: docs: add contributing guidelines stub
