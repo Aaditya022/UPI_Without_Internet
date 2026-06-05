@@ -134,3 +134,4 @@
 - 2026-06-05T09:00:00+0530: chore: add maven compiler plugin version
 - 2026-06-05T09:30:00+0530: chore: pin frontend dependency versions
 - 2026-06-05T10:00:00+0530: chore: add spring-boot-maven-plugin config
+- 2026-06-05T10:30:00+0530: chore: add jacoco test coverage plugin
