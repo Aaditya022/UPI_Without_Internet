@@ -177,3 +177,4 @@
 - 2026-05-28T14:00:00+0530: style: add zebra striping to transaction table
 - 2026-05-28T15:00:00+0530: chore: add sort comparator for transaction list
 - 2026-06-10T09:00:00+0530: refactor: extract landing page i18n strings
+- 2026-06-10T10:00:00+0530: style: adjust section anchor scroll offset
