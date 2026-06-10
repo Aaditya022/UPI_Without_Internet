@@ -179,3 +179,4 @@
 - 2026-06-10T09:00:00+0530: refactor: extract landing page i18n strings
 - 2026-06-10T10:00:00+0530: style: adjust section anchor scroll offset
 - 2026-06-10T11:00:00+0530: fix: correct mobile nav menu close
+- 2026-06-10T14:00:00+0530: style: add focus ring to interactive elements
