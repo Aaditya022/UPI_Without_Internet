@@ -183,3 +183,4 @@
 - 2026-06-10T15:00:00+0530: chore: add meta description tag
 - 2026-06-18T09:00:00+0530: refactor: extract API error message constants
 - 2026-06-18T10:00:00+0530: style: unify toast notification style
+- 2026-06-18T11:00:00+0530: fix: correct DemoDashboard account balance refresh
