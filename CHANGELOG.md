@@ -184,3 +184,4 @@
 - 2026-06-18T09:00:00+0530: refactor: extract API error message constants
 - 2026-06-18T10:00:00+0530: style: unify toast notification style
 - 2026-06-18T11:00:00+0530: fix: correct DemoDashboard account balance refresh
+- 2026-06-18T14:00:00+0530: style: add loading state to send button
