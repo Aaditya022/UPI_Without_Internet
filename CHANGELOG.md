@@ -181,3 +181,4 @@
 - 2026-06-10T11:00:00+0530: fix: correct mobile nav menu close
 - 2026-06-10T14:00:00+0530: style: add focus ring to interactive elements
 - 2026-06-10T15:00:00+0530: chore: add meta description tag
+- 2026-06-18T09:00:00+0530: refactor: extract API error message constants
