@@ -187,3 +187,4 @@
 - 2026-06-18T14:00:00+0530: style: add loading state to send button
 - 2026-06-18T15:00:00+0530: chore: add event log auto-scroll
 - 2026-06-25T09:00:00+0530: refactor: extract mesh node type constants
+- 2026-06-25T10:00:00+0530: style: adjust device icon sizing
