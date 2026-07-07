@@ -193,3 +193,4 @@
 - 2026-06-25T15:00:00+0530: chore: add hover details to device cards
 - 2026-07-07T09:00:00+0530: refactor: extract account balance formatter
 - 2026-07-07T10:00:00+0530: style: unify currency symbol display
+- 2026-07-07T11:00:00+0530: fix: correct negative balance color
