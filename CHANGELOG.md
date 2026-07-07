@@ -192,3 +192,4 @@
 - 2026-06-25T14:00:00+0530: style: add connection status pulse animation
 - 2026-06-25T15:00:00+0530: chore: add hover details to device cards
 - 2026-07-07T09:00:00+0530: refactor: extract account balance formatter
+- 2026-07-07T10:00:00+0530: style: unify currency symbol display
