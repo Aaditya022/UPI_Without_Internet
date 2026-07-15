@@ -196,3 +196,4 @@
 - 2026-07-07T11:00:00+0530: fix: correct negative balance color
 - 2026-07-07T14:00:00+0530: style: add balance change animation
 - 2026-07-07T15:00:00+0530: chore: add account search filter
+- 2026-07-15T09:00:00+0530: refactor: extract link resolver utility
