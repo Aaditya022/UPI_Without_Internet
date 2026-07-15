@@ -200,3 +200,4 @@
 - 2026-07-15T10:00:00+0530: style: adjust footer social icon size
 - 2026-07-15T11:00:00+0530: fix: correct external link target attribute
 - 2026-07-15T14:00:00+0530: style: add hover underline to footer links
+- 2026-07-15T15:00:00+0530: chore: add site verification meta tag
